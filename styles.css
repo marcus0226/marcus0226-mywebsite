@@ -13,7 +13,7 @@
 }
 
 body {
-    background-color:green;
+    background: linear-gradient(to right, green, purple) ;
     padding: 15px;
     border: 5px solid black;
     text-align: center;
