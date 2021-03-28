@@ -19,3 +19,8 @@ body {
     text-align: center;
 }
 
+.heading-container {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 32px;
+    color: purple;
+}
