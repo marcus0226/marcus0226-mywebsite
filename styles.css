@@ -23,4 +23,5 @@ body {
     font-family: 'Times New Roman', Times, serif;
     font-size: 32px;
     color: purple;
+    border: 5px solid black;
 }
